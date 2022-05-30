@@ -7,7 +7,7 @@ nav{
 .navbar-nav{
     margin-right: 100px;
 }
-.col-12{
+#banner{
     text-align: center;
     height: 75vh;
     background-image: linear-gradient(to right,rgb(82,158,253), rgb(61,77,171));
@@ -22,4 +22,16 @@ h3{
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 20%;
+}
+#session{
+    text-align: center;
+}
+#session p{
+    font-weight: 3000;
+}
+img{
+    width: 60%;
+}
+p{
+    text-align: center;
 }
